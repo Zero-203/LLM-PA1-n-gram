@@ -1,6 +1,6 @@
 # 中文 n-gram 语言模型实验
 
-> GitHub 仓库链接占位符：https://github.com/Zero-203/LLM-PA1-n-gram。创建仓库后请替换为实际地址。
+> GitHub 仓库链接占位符：https://github.com/Zero-203/LLM-PA1-n-gram 。创建仓库后请替换为实际地址。
 
 本项目使用中文分词语料训练 unigram 至 6-gram 语言模型，比较 add-k、Good-Turing 和 Katz 平滑，并根据验证集交叉熵选择配置，在测试集上报告结果。项目同时提供语料清洗、文章级数据划分、文本续写和结果绘图功能。
 
